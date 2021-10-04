@@ -1,0 +1,12 @@
+.input {
+    border-radius: var(--border-radius);
+    border: 0;
+}
+
+.inputFluid {
+    width: 100%;
+}
+
+.label {
+    color: var(--main-text-color);
+}
